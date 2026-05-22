@@ -158,10 +158,3 @@ HR-Analytics-PowerBI/
 
 ---
 
-## How to Run
-
-1. Download and install [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free)
-2. Clone or download this repository
-3. Open `HR_Analytics_Dashboard.pbix` in Power BI Desktop
-4. If prompted, update the data source path to point to `dataset/WA_Fn-UseC_-HR-Employee-Attrition.csv`
-5. Click **Refresh** to reload the data
