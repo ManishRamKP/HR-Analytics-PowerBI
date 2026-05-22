@@ -1,0 +1,14 @@
+{
+  "name": "HR Professional",
+  "dataColors": [
+    "#1D9E75",
+    "#378ADD",
+    "#D85A30",
+    "#7F77DD",
+    "#BA7517",
+    "#D4537E"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#1A1A2E",
+  "tableAccent": "#1D9E75"
+}
