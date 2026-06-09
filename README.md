@@ -12,7 +12,7 @@ An interactive Power BI dashboard analyzing employee attrition, diversity, salar
 ## Dashboard Pages
 
 ### 1. Executive Summary
-![Executive Summary](images/executive_summary.png)
+![Executive Summary](images/executive_summary_update.png)
 
 High-level KPIs and attrition overview across departments and job roles.
 
